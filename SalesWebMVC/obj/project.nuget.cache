@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3oD3J3tIbKXON/wZSfTayGL3cymBqzPJiV/qKu6YS5/mGkv9LusxO5hWsTKcVfCNc+ynt5u7+HR0JQCcaiJsYQ==",
+  "dgSpecHash": "+4Ra85eKbMxwp/53voCcLYQFdCbEAPBUml3PZKbXnyTsVSediFVKz2xKl/fLm3iB5BUEzeI9sWkjnmB2DUhJGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitin\\Documents\\Dev\\C#\\cursoUdemy- C#\\ASP WebApp - Sistema Vendas\\SalesWebMvc\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\vitin\\Documents\\Dev\\C#\\cursoUdemy- C#\\ASP WebApp - Sistema Vendas\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\vitin\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
