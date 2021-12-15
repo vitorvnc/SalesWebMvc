@@ -13,7 +13,6 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-
 #line 1 "D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\Views\_ViewImports.cshtml"
 using SalesWebMVC;
 
