@@ -38,4 +38,3 @@ D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
-D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
