@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SalesWebMVC.Data;
-
+using SalesWebMVC.Models;
 namespace SalesWebMVC.Migrations
 {
     [DbContext(typeof(SalesWebMVCContext))]
