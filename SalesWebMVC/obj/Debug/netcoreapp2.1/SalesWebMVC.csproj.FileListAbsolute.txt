@@ -38,5 +38,4 @@ D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\bin\Debug\netcoreapp2.
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
-D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 D:\Vitor_Generation\C#\ProjetoMVC\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
