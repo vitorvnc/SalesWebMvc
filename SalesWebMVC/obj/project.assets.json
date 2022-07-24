@@ -12733,30 +12733,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Letícia\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\vitin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vitor_Generation\\C#\\ProjetoMVC\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\vitin\\Documents\\Dev\\C#\\cursoUdemy- C#\\ASP WebApp - Sistema Vendas\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
       "projectName": "SalesWebMVC",
-      "projectPath": "D:\\Vitor_Generation\\C#\\ProjetoMVC\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
-      "packagesPath": "C:\\Users\\Letícia\\.nuget\\packages\\",
-      "outputPath": "D:\\Vitor_Generation\\C#\\ProjetoMVC\\SalesWebMvc\\SalesWebMVC\\obj\\",
+      "projectPath": "C:\\Users\\vitin\\Documents\\Dev\\C#\\cursoUdemy- C#\\ASP WebApp - Sistema Vendas\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
+      "packagesPath": "C:\\Users\\vitin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vitin\\Documents\\Dev\\C#\\cursoUdemy- C#\\ASP WebApp - Sistema Vendas\\SalesWebMvc\\SalesWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Letícia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -12851,7 +12846,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }

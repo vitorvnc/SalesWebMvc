@@ -1,0 +1,8 @@
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.AssemblyInfoInputs.cache
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.AssemblyInfo.cs
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.csproj.CoreCompileInputs.cache
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.RazorAssemblyInfo.cache
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.RazorAssemblyInfo.cs
