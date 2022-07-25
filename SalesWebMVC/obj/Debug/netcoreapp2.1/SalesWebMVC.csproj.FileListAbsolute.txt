@@ -82,3 +82,4 @@ C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\Sales
 C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\vitin\Documents\Dev\C#\cursoUdemy- C#\ASP WebApp - Sistema Vendas\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
